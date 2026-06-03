@@ -1,0 +1,8 @@
+{
+  "short_name": "账本",
+  "name": "账本 · 智能记账",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6366F1",
+  "background_color": "#F7F8FA"
+}
